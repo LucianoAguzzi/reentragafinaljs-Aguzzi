@@ -1,0 +1,22 @@
+.carrito-contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-description {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
+.product-description h4 {
+    margin-right: 20px;
+}
+
+.product-description h5 {
+    margin-right: 20px;
+}
+
+#footer{
+    margin-top: 600px;
+}
